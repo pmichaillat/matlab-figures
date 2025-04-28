@@ -27,4 +27,4 @@ While the template should also work on other operating systems and with other MA
 
 ## License
 
-The content of this repository is licensed under the terms of the MIT License.
+This repository is licensed under the [MIT License](LICENSE.md).
