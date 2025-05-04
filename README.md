@@ -8,7 +8,7 @@ The template is documented at https://pascalmichaillat.org/d/.
 
 ## Illustration
 
-The figures produced by the template can be viewed at https://pascalmichaillat.org/d4.pdf.
+The figures produced by the template can be viewed at https://pascalmichaillat.org/d.pdf.
 
 ## Usage
 
