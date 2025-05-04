@@ -4,7 +4,7 @@ This repository contains a MATLAB template to create scientific figures. The tem
 
 ## Documentation
 
-The template is documented at https://pascalmichaillat.org/d4/.
+The template is documented at https://pascalmichaillat.org/d/.
 
 ## Illustration
 
